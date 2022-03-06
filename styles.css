@@ -5,3 +5,8 @@ body {
 #nav {
 font-family: 'Sansita Swashed', cursive;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
